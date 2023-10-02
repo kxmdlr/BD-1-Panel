@@ -7,3 +7,6 @@ relative_links:
   collections: true
 include:
   - README.md
+title: [BD-1 Back Panel Build]
+description: [How to build BD-1 back panel.]
+
